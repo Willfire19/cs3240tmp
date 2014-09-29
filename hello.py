@@ -1,5 +1,7 @@
-def greeting(msg):
-	print msg
+from helper import greeting
+
+# def greeting(msg):
+# 	print msg
 
 def main():
 	# print "hello"
