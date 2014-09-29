@@ -1,3 +1,5 @@
 cs3240tmp
 =========
-This is a Readme file with merge conflict!
+
+This is a Readme file sweet
+
